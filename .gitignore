@@ -1,7 +1,18 @@
+# Python bytecode
 *.pyc
+
+# System files
 .DS_Store
+Thumbs.db
+
+# Project folders
 dist/
 build/
+venv/
+
+# PyCharm project folder
+.idea
+
 *.egg-info
 *~
 .ropeproject
